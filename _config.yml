@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Reeithu R G"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Reeithu"
 description              : &description "personal description"
 url                      : https://reeithu.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,7 +21,7 @@ repository               : "reeithu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "reeithu.png"
+  avatar           : "profile_picture_reeithu.png"
   name             : "Reeithu R G"
   pronouns         : # example: "she/her"  
   bio              : "Final Year Undergrad | Robotics Enthusiast"
