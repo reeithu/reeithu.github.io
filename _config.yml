@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "reeithu.jpg"
+  avatar           : "reeithu.png"
   name             : "Reeithu R G"
   pronouns         : # example: "she/her"  
   bio              : "Final Year Undergrad | Robotics Enthusiast"
