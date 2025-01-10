@@ -28,7 +28,7 @@ Bachelor of Technology, Electronics and Communication
 10th Grade  
 *June 2009 – May 2019*  
 - **Percentage:** 95.1%
-
+<hr style="border:2px solid gray">
 ---
 
 ## Experience
