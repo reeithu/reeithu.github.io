@@ -8,8 +8,6 @@ redirect_from:
 ---
 9243499966 | reeithu.r.g@gmail.com | [LinkedIn](https://www.linkedin.com/in/reeithu)
 
----
-
 ## Education
 
 **PES University, Bangalore, KA**  
