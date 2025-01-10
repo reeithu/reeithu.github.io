@@ -31,7 +31,7 @@ structuring elements, and threshold values.
    - Poly Plethysmographic (PPG) signal is extracted from the video recorded using a smartphone camera which is used
 to detect volumetric changes in blood in the peripheral region.
 
-- **Pose Estimation using various Low Light Image Enhancement Techniques |**  
+- **Pose Estimation using various Low Light Image Enhancement Techniques**  
    *OpenCV*  
    - Developed a project focused on enhancing pose estimation accuracy in low-light conditions through the
 implementation of advanced image enhancement techniques.
