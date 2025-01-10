@@ -18,8 +18,7 @@ capstone project.
    - Developed an integrated voice and vision system for a manipulator, enabling voice-controlled operation and object
 identification via computer vision.
 
-- **Detection of Microplastics in Ocean Water Samples using Blob Detection and comparison
-of various Filtering Methods (DoG, LoG, DoH) **  
+- **Detection of Microplastics in Ocean Water Samples using Blob Detection and comparison of various Filtering Methods (DoG, LoG, DoH)**  
    *OpenCV, MATLAB*  
    - Implemented blob detection to detect and count microplastics in ocean water samples using thresholding,
 morphology and filtering methods such as Difference of Gaussian, Laplacian of Gaussian and Difference of Hessian.
