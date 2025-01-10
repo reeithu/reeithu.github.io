@@ -6,7 +6,10 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-9243499966 | reeithu.r.g@gmail.com | [LinkedIn](https://www.linkedin.com/in/reeithu)
+#   
+9243499966 | reeithu.r.g@gmail.com | [LinkedIn](https://www.linkedin.com/in/reeithu) | [Portfolio](https://reeithu.github.io)
+
+---
 
 ## Education
 
