@@ -1,15 +1,15 @@
 ---
 layout: archive
-title: "Reeithu R G  "
+title: "Reeithu R G "
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
- 
 9243499966 | reeithu.r.g@gmail.com | [LinkedIn](https://www.linkedin.com/in/reeithu)
 
-<hr style="border:2px solid gray">
+---
+
 ## Education
 
 **PES University, Bangalore, KA**  
@@ -28,7 +28,7 @@ Bachelor of Technology, Electronics and Communication
 10th Grade  
 *June 2009 – May 2019*  
 - **Percentage:** 95.1%
-<hr style="border:2px solid gray">
+
 ---
 
 ## Experience
