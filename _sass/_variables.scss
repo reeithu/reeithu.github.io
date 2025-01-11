@@ -55,6 +55,7 @@ $sidebar-link-max-width     : 250px;
    Colors
    ========================================================================== */
 
+/*
 $gray                       : #7a8288;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
@@ -66,7 +67,21 @@ $background-color           : #fff;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
-$border-color               : $lighter-gray;
+$border-color               : $lighter-gray; */
+
+$gray                       : #7a8288;
+$dark-gray                  : mix(#000, $gray, 40%);
+$darker-gray                : mix(#000, $gray, 60%);
+$light-gray                 : mix(#fff, $gray, 50%);
+$lighter-gray               : mix(#fff, $gray, 90%);
+
+$body-color                 : #000; // Set to a dark shade
+$background-color           : #000; // Dark background
+$code-background-color      : #2e2e2e; // Darker code background
+$code-background-color-dark : $darker-gray; // Slightly lighter than code background
+$text-color                 : #fff; // Set to a light shade
+$border-color               : $dark-gray; // Darker border color
+
 
 $primary-color              : #7a8288;
 $success-color              : #62c462;
