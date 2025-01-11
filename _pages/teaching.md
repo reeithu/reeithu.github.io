@@ -22,7 +22,14 @@ author_profile: true
       - *Increased workshop registrations to 330 compared to the previous year’s 30.*
       - *Attracted 84 teams from various universities across India and abroad for the ReRo online 24-hour
       hackathon, up from 30 teams the previous year.*
----
+    - ***Robofest 3.0***:
+      - *Led a team of volunteers in planning and executing a month-long event.*
+      - *Organized and successfully executed India's first Remote Robotics Hackathon*
+      - *Ideated events, formed teams, prepared budgets, scheduled activities, booked venues, acquired funds, secured
+sponsors, delegated tasks, managed operations, and handled logistical arrangements.*
+
+---  
+
 **Internship Organizer**  
 ***Center for Robotics Automation and Intelligent Systems (cRAIS), PES University, Bangalore, KA***  
 *May 2024 – Aug. 2024*  
