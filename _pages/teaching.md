@@ -27,9 +27,7 @@ author_profile: true
       - *Organized and successfully executed India's first Remote Robotics Hackathon*
       - *Ideated events, formed teams, prepared budgets, scheduled activities, booked venues, acquired funds, secured
 sponsors, delegated tasks, managed operations, and handled logistical arrangements.*
-
----  
-
+---
 ## **Internship Organizer**  
 ***Center for Robotics Automation and Intelligent Systems (cRAIS), PES University, Bangalore, KA***  
 *May 2024 – Aug. 2024*  
