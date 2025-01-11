@@ -4,7 +4,7 @@ title: "Roles"
 permalink: /teaching/
 author_profile: true
 ---
-**Student Chair**  
+### **Student Chair**  
 ***IEEE Robotics and Automation Society, PES University, Bangalore, KA***  
 *Jan. 2024 – Jan. 2025*  
 - Leading a team of 51 core members across 11 domains and 2000+ community members.  
@@ -30,7 +30,7 @@ sponsors, delegated tasks, managed operations, and handled logistical arrangemen
 
 ---  
 
-**Internship Organizer**  
+### **Internship Organizer**  
 ***Center for Robotics Automation and Intelligent Systems (cRAIS), PES University, Bangalore, KA***  
 *May 2024 – Aug. 2024*  
 - Curated 11 project problem statements in robotics by connecting with industry experts.  
