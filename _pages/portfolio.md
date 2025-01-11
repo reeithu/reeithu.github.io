@@ -4,9 +4,6 @@ title: "Projects"
 permalink: /portfolio/
 author_profile: true
 ---
-
-## Projects
-
 - **Dual-arm Manipulator for Surgical Incision**  
    *MuJoCo, OpenAI Gym, SOFA*  
    - Currently working on implementing a dual-arm manipulator for surgical incision, as a part of our final year
