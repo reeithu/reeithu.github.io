@@ -12,3 +12,5 @@ redirect_from:
 🔬 My research interests include Computer Vision, Robotics, Reinforcement Learning, Deep Learning, and Control Systems.
 
 📚 I am currently working in the field of Surgical Robotics.
+
+💼 I also have a passion for leadership and management.
